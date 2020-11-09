@@ -1,0 +1,9 @@
+Step for selenium  
+
+1. Setproperty.
+
+2. Initialize webdriver.
+
+3. Hit the URL.
+
+4. Maximize the window.
