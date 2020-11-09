@@ -7,3 +7,5 @@ Step for selenium
 3. Hit the URL.
 
 4. Maximize the window.
+
+5. Quit the browser.
